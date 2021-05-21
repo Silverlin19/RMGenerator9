@@ -1,0 +1,22 @@
+{
+  "name": "RMGenerator9",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silverlin19/RMGenerator9"
+  },
+  "author": "Sam Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silverlin19/RMGenerator9"
+  },
+  "homepage": "https://github.com/Silverlin19/RMGenerator9",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
